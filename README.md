@@ -1,1 +1,3 @@
 # SampleReactApp
+
+Sample text added
